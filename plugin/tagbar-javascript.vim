@@ -1,5 +1,5 @@
 if !exists('g:tagbar_javascript_ctags_bin')
-    let g:tagbar_javascript_ctags_bin = 'esctags'
+    let g:tagbar_javascript_ctags_bin = 'es-ctags'
 endif
 
 if !exists('g:tagbar_javascript_ctags_memory_limit')

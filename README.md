@@ -4,10 +4,10 @@ javascript tags for tagbar.
 
 ## Usage
 
-First, install `esctags` with npm:
+First, install `es-ctags` with npm:
 
 ```bash
-npm install -g esctags
+npm install -g es-ctags
 ```
 
 Then, install `tagbar-javascript.vim` with vundle:
